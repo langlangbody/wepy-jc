@@ -143,3 +143,6 @@ onLoad () {
 
 ```
 
+**开发中建议大家多关注下作者的<a href="https://tencent.github.io/wepy/document.html#/changelog">版本日志</a>**
+
+避免开发中使用wepyAPI出现的错误
